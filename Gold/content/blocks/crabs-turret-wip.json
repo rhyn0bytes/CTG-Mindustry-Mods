@@ -1,0 +1,30 @@
+{
+	"type": "DoubleTurret",
+	"name": "Gold Wip Turret",
+	"description": "Sprays useless gold bullets everywhere. What a mess.",
+	"health": 200,
+	"size": 4,
+	"reload": 4,
+	"range": 100,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 30,
+  "rotatespeed": 12,
+  "shootSound": "Money Crabs",
+	"ammo": {
+		"gold": {
+			"speed": 1.0,
+			"damage": 3,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "gold", "amount": 40 },
+		{ "item": "copper", "amount": 70 }
+	],
+	"category": "turret",
+	"research": "duo"
+}

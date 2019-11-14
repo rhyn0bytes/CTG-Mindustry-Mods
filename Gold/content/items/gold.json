@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Gold",
+	"description": "A rare resource.",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Large Gold Wall",
+	"description": "A large wall made of gold. Why not build it out of gold?",
+	"type": "Wall",
+	"health": 1470,
+	"size": 2,
+	"requirements": [
+		{ "item": "gold", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
