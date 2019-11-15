@@ -1,3 +1,3 @@
-# This is only a test...
+# Mindustry Mods
 
 Welcome to the Coffee Table Gaming Mindustry Mods.
